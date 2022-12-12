@@ -3,7 +3,9 @@ endian msb
 
 //output "Bomberman64U.z64",create
 output "BM64U.z64",create
-fill $00101000 
+//fill $00800000
+
+
  
 origin $00000000
 base $A4000000
